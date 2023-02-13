@@ -1,3 +1,3 @@
 # RegEx-task
 
-http://127.0.0.1:5500/Regex%20task/index.html
+https://friendly-faun-bf5a2d.netlify.app/
